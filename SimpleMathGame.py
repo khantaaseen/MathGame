@@ -1,7 +1,3 @@
-#taaseen khan
-#project 1
-
-
 from sys import exit
 import random
 
@@ -128,4 +124,3 @@ def main():
                 continue
             
 main()
-            
